@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Habit Tracker",
+  "description": "A feature-rich, multi-theme habit tracking dashboard with visual analytics, progress monitoring, and personalized goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
